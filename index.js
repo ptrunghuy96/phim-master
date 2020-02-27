@@ -1,7 +1,7 @@
 'use strict'
 
 require('dotenv').config({ silent: true })
-require('now-logs')('phim.clgt.vn')
+require('now-logs')('phim-master.herokuapp.com')
 require('./lib/array-concatAll')
 
 const server = require('./lib/server')
