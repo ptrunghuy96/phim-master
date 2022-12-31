@@ -33,6 +33,6 @@
     "tunnel": "0.0.4"
   },
   "devDependencies": {
-    "ava": "^0.17.0"
+    "ava": "^5.1.0"
   }
 }
